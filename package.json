@@ -1,0 +1,24 @@
+{
+  "name": "kiki_cli",
+  "version": "0.0.1",
+  "description": "A cli which used for create a project-cli for myself",
+  "main": "index.js",
+  "bin": {
+    "kiki": "./bin/kiki.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kiris1998/kiki_cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli\\"
+  ],
+  "author": "Kiris1998",
+  "license": "ISC",
+  "devDependencies": {
+    "commander": "^2.19.0"
+  }
+}
