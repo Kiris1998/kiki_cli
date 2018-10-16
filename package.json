@@ -18,7 +18,7 @@
   ],
   "author": "Kiris1998",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "commander": "^2.19.0"
   }
 }
