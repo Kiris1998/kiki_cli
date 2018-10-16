@@ -1,6 +1,6 @@
 {
   "name": "kiki_cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A cli which used for create a project-cli for myself",
   "main": "index.js",
   "bin": {
