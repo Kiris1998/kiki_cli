@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kiris1998/kiki_cli.git"
+    "url": "https://github.com/Kiris1998/kiki_webpack.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
