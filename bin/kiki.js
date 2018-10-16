@@ -1,4 +1,4 @@
-#!/user/bin/env node
+#!/usr/bin/env node
 'use strict'
 const program = require('commander')
 const infomation = require('../package.json')
