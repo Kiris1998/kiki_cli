@@ -1,6 +1,6 @@
 'use strict'
 const exec = require('child_process').exec
-const projectUrl = 'https://github.com/Kiris1998/kiki_cli.git'
+const projectUrl = 'https://github.com/Kiris1998/kiki_webpack.git'
 module.exports = () => {
   console.log('kiki is building')
   let commandStr = `git clone ` + projectUrl
